@@ -48,6 +48,4 @@ The simulation generates a graph plotting `cwnd` over **RTTs**, illustrating how
 - Add real-world **network trace integration**.
 - Extend support for **TCP Cubic**.
 
----
-
 
