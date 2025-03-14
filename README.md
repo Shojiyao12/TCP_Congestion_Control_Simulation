@@ -35,7 +35,7 @@ Timeout at RTT 10: cwnd=1, ssthresh=8
 ### **Graph Example**
 The simulation generates a graph plotting `cwnd` over **RTTs**, illustrating how congestion control operates dynamically.
 
-![TCP Congestion Control Graph](![TCP Congestion Control-Graph](https://github.com/user-attachments/assets/52607184-dbc5-4e9a-8095-f8be980f4370)
+![TCP Congestion Control Graph](https://github.com/user-attachments/assets/52607184-dbc5-4e9a-8095-f8be980f4370)
 
 
 ## Notes:
